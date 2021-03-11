@@ -11,8 +11,9 @@
 
 **Part 2: Automl vision model and deployment**
 2a: Execute automl vision and timeseries forcasting models
+
 2b: End2end deployment of vision model using automl to mobile device
 
-Deliverables:
+**Deliverables:**
 1. Screenshots
 2. Video Presentation 
