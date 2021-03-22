@@ -28,4 +28,4 @@ Implemented a 3 layer neural network on 3-dimensional input and 2-dimensional ou
 
 Implemented a 3 layer neural network on 3-dimensional input and 2-dimensional output using Tensorflow high level primitives
 
-Also, compared performance of the built neural networks with and without nonlinearity using visualizations for all the parts. 
+_Also, compared performance of the built neural networks with and without nonlinearity using visualizations for all the parts. _
